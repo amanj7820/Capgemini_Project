@@ -2,10 +2,6 @@ Objective
 
 To build a recommendation system to recommend products to customers based on the their previous ratings for other products
 
-Dataset
-
-https://drive.google.com/file/d/1ClBptsK3V5KgKXtK2GSRzFNAW7GnTPDW/view?usp=sharing
-
 Data Description
 
 For this model, we are using the Electronics dataset from Amazon Reviews data repository.
