@@ -1,20 +1,20 @@
-Objective
+#Objective
 
 To build a recommendation system to recommend products to customers based on the their previous ratings for other products
 
-Data Description
+#Data Description
 
 For this model, we are using the Electronics dataset from Amazon Reviews data repository.
 
-Domain
+#Domain
 
 E- Commerce
 
-Context
+#Context
 
 Online E-commerce websites like Amazon, Flipkart uses different recommendation models to provide different suggestions to different users. Amazon currently uses item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real-time.
 
-Attribute Information
+#Attribute Information
 
 userId: Every user identified with a unique id
 
@@ -24,7 +24,7 @@ Rating: Rating of the corresponding product by the corresponding user
 
 timestamp: Time of the rating ( ignoring this column for our experiment)
 
-Learning Outcomes
+#Learning Outcomes
 
 ●Exploratory Data Analysis
 
@@ -32,7 +32,7 @@ Learning Outcomes
 
 ●Collaborative filtering
 
-Steps Followed
+#Steps Followed
 
 1.Read and explore the given dataset.
 
